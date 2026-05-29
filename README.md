@@ -23,3 +23,4 @@ Real-world data is rarely clean. I intentionally injected errors to demonstrate 
 1. Run `01_Data_Generation.sql` to setup the database.
 2. Run `02_cleaning_and_views.sql` to clean and aggregate the data.
 3. Open the `saas_analysis.pbix` file to view the interactive dashboard.
+![SaaS Dashboard Preview](SaaS_Dashboard_Preview.png)
